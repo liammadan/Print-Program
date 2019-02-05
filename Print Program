@@ -1,0 +1,14 @@
+/**
+ * Write a description of class PrintProgram here.
+ *
+ * @Liam Madan
+ * @2/5
+ */
+public class PrintProgram
+{
+    // instance variables - replace the example below with your own
+    private int x;
+
+    System.out.println("0       0");
+    System.out.println("    <     ");
+    System.out.println("--_____--");
