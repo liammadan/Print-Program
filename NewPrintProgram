@@ -1,0 +1,16 @@
+
+/**
+ * Write a description of class PrintProgram here.
+ *
+ * @LMADAN
+ * @2/7
+ */
+public class PrintProgram
+{
+    public static void main(String[] args)
+    {
+        System.out.println("0       0");
+    System.out.println("    <     ");
+    System.out.println("--_____--");
+    }
+}
